@@ -8,5 +8,5 @@ Web url: https://www.imdb.com/chart/top-english-movies
 Python libraries:
 1. selenium==3.141.0
 2. beautifulsoup4==4.7.1
-3. panda==0.23.4
+3. pandas==0.23.4
 
